@@ -1,0 +1,2 @@
+rootProject.name='OpcCombustivel'
+include ':app'
